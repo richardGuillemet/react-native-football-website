@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-football-website",
+    "slug": "react-native-football-website",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-football-website"
+}
